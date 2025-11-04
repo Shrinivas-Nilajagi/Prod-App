@@ -1,0 +1,5 @@
+✅ Summary
+Action	Safe?	Description
+git push --force (without cleaning)	❌ Blocked	Secret still in history
+Clean secret + git push --force	✅ Allowed	History safe
+Revoke leaked API key	✅ Required	Prevent misuse
