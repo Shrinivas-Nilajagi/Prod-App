@@ -1,0 +1,9 @@
+create the git repository
+create the folder in the code editor
+create the desired folder in the local environment
+open the folder with the code editor with vs code
+clone the repository with the vs editor
+crete the files in the folder and add the data to it 
+git config --global user.name "name"
+git config  --global user.email "email address"
+git config --list this shows the list of the user available in the git.
