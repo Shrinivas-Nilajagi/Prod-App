@@ -21,4 +21,5 @@ git pus for  moving the files to the remote location.
 every commits will be having the alpha numeric id's
 #git log --oneline -2 this show last two commits with the details.
 #git log -- since=dateof the envent.
+all the steps
  
