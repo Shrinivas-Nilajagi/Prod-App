@@ -23,3 +23,5 @@ every commits will be having the alpha numeric id's
 #git log -- since=dateof the event.
 git checkout "branch name" = this command helps to create or switch betwn the branchs
 git checkput -b = this helps to create the nw branch along with the existing all the code. 
+git stash - helps to hold the code in the current branch temporary.
+git unstash - this releses the code holded temorarly.
