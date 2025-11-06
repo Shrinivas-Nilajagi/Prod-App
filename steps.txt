@@ -9,8 +9,16 @@ git config --global user.name "name"
 git config  --global user.email "email address"
 git config --list this shows the list of the user available in the git.
 ls - to check the files of the code / note we added
-git init - initalise the code to the github
+git init - initalise the code to the github remote location from local location.
 git add . - to add the all the files to staging 
 git commit -m "message as per our understand"
 git push -u origin main - here the origin is the branch which indicates our current moving branch.
 git pus for  moving the files to the remote location.
+#git log = this command helps to check all the commits with history.
+#git log --oneline = this command helps to shows the all changes made comiit in one line
+#git log --2 this gives the commit history in two lines (we can check the number of commits by mentioning the numbers)
+#in the git log head always shows that last commit id.
+every commits will be having the alpha numeric id's
+#git log --oneline -2 this show last two commits with the details.
+#git log -- since=dateof the envent.
+ 
