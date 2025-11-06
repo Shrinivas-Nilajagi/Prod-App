@@ -1,3 +1,4 @@
+Seteps for the Git repository to github moving
 create the git repository
 create the folder in the code editor
 create the desired folder in the local environment
@@ -12,3 +13,4 @@ git init - initalise the code to the github
 git add . - to add the all the files to staging 
 git commit -m "message as per our understand"
 git push -u origin main - here the origin is the branch which indicates our current moving branch.
+git pus for  moving the files to the remote location.
