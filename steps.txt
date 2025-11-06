@@ -20,6 +20,6 @@ git pus for  moving the files to the remote location.
 #in the git log head always shows that last commit id.
 every commits will be having the alpha numeric id's
 #git log --oneline -2 this show last two commits with the details.
-#git log -- since=dateof the envent.
-all the steps to be added the followed in the git lib
- 
+#git log -- since=dateof the envent. \
+adding the notes to the remote machine.
+check the note in the github
