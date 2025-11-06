@@ -7,3 +7,8 @@ crete the files in the folder and add the data to it
 git config --global user.name "name"
 git config  --global user.email "email address"
 git config --list this shows the list of the user available in the git.
+ls - to check the files of the code / note we added
+git init - initalise the code to the github
+git add . - to add the all the files to staging 
+git commit -m "message as per our understand"
+git push -u origin main - here the origin is the branch which indicates our current moving branch.
