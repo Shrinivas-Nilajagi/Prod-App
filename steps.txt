@@ -20,6 +20,8 @@ git pus for  moving the files to the remote location.
 #in the git log head always shows that last commit id.
 every commits will be having the alpha numeric id's
 #git log --oneline -2 this show last two commits with the details.
-#git log -- since=dateof the envent. \
-adding the notes to the remote machine.
-check the note in the github
+#git log -- since=dateof the event.
+git checkout "branch name" = this command helps to create or switch betwn the branchs
+git checkput -b = this helps to create the nw branch along with the existing all the code. 
+git stash - helps to hold the code in the current branch temporary.
+git unstash - this releses the code holded temorarly
