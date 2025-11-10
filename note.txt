@@ -1,0 +1,2 @@
+git log ==  shows the all the commit of the push.
+git log --oneline  this shows all commited  details in the terminal\
