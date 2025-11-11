@@ -1,0 +1,2 @@
+Well come to the touch and exploring the git through the bash command line.
+here we will learn the git bash
