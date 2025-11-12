@@ -1,2 +1,6 @@
 Well come to the touch and exploring the git through the bash command line.
 here we will learn the git bash
+
+\\\
+
+welcome to the adavanced series of the git to to PR requests for the repository.
