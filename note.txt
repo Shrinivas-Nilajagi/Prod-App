@@ -4,3 +4,42 @@ here we will learn the git bash
 \\\
 
 welcome to the adavanced series of the git to to PR requests for the repository.
+
+Basic Setup
+git init             # Create a new Git repository
+git clone <url>      # Copy (download) a repo from GitHub
+git config --global user.name "Your Name"     # Set your name
+git config --global user.email "you@email.com" # Set your email
+
+🔹 Working with Files
+git status           # Check current changes
+git add <file>       # Add file to staging area
+git add .            # Add all files
+git commit -m "msg"  # Save changes with a message
+
+🔹 Branches
+git branch           # List branches
+git branch <name>    # Create new branch
+git checkout <name>  # Switch to branch
+git merge <name>     # Merge a branch into current one
+git branch -d <name> # Delete a branch
+
+🔹 Remote Repositories
+git remote -v        # Show remote URLs
+git remote add origin <url>  # Connect local repo to GitHub
+git push -u origin main      # Push changes (first time)
+git push            # Push changes again
+git pull            # Get latest changes from remote
+
+🔹 Undo & Fix
+git log             # View commit history
+git diff            # Show changes not yet staged
+git reset <file>    # Unstage a file
+git checkout -- <file>  # Discard changes in file
+git revert <commit> # Undo a specific commit safely
+
+🔹 Advanced (Useful)
+git fetch           # Get remote updates without merging
+git rebase          # Reapply commits on top of another base
+git stash           # Save work temporarily
+git stash pop       # Reapply stashed work
