@@ -1,0 +1,20 @@
+⭐ STEP 2 — Git (3–4 days)
+
+You already know basics — this will make you strong.
+
+✔ YouTube Playlist
+
+🔹 “Git & GitHub Full Course” – by Kunal Kushwaha
+Search: Kunal Git GitHub full course
+
+Very clear explanations + practical.
+
+✔ Commands to focus:
+
+git init, clone
+
+add, commit, push
+
+branch, merge
+
+pull, fetch
