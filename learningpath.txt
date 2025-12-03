@@ -7,7 +7,7 @@ You already know basics — this will make you strong.
 🔹 “Git & GitHub Full Course” – by Kunal Kushwaha
 Search: Kunal Git GitHub full course
 
-Very clear explanations + practical.
+iVery clear explanations + practical.
 
 ✔ Commands to focus:
 
@@ -18,3 +18,5 @@ add, commit, push
 branch, merge
 
 pull, fetch
+
+need to clone first and later add the username and mail addreess pull the repo iiniit an add commit then push
