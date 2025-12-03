@@ -1,3 +1,4 @@
+
 Well come to the touch and exploring the git through the bash command line.
 here we will learn the git bash
 
@@ -38,7 +39,7 @@ git reset <file>    # Unstage a file
 git checkout -- <file>  # Discard changes in file
 git revert <commit> # Undo a specific commit safely
 
-🔹 Advanced (Useful)
+ Advanced (Useful)
 git fetch           # Get remote updates without merging
 git rebase          # Reapply commits on top of another base
 git stash           # Save work temporarily
