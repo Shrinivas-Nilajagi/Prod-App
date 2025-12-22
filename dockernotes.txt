@@ -1,0 +1,11 @@
+Installing the Docker
+we have to install the docker by 2 way one is through the docker application and second one is through EC2.
+
+dnf update -y ---- this will allow us to update the system.
+yum/dnf install docker -y --- this allow to install the docker package 
+system ctl start docker ---- this will start the docker.
+systemctl enable docker ---- this will enable the docker to be on a operational
+
+once the docker the above procedure is completed check the versions by docker command.
+
+docker --versions - ----- this will show the version of the docker file.
